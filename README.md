@@ -1,6 +1,6 @@
 # Power BI Statistical Inference Dashboard: Superstore Loss-Leader Analysis
 
-![Alt text](assets\superstore.gif)
+![Alt text](assets/superstore.gif)
 
 ## Technologies
 
