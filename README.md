@@ -22,7 +22,7 @@ The project includes KPI cards, a regional profit matrix, a what-if price adjust
 
 ## Dataset
 
-This project uses the Superstore Sales dataset from Kaggle.
+This project uses the Superstore Sales dataset from Kaggle, found here: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
 The dataset contains order-level sales records including:
 
